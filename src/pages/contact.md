@@ -11,14 +11,6 @@ sections:
     form_id: contactForm
     form_action: /thank-you
     form_fields:
-      - input_type: select
-        name: subject
-        label: Subject
-        default_value: Please select
-        options:
-          - Error on the site
-          - Sponsorship
-          - Other
       - input_type: checkbox
         name: consent
         label: >-
