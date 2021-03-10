@@ -1,6 +1,6 @@
 ---
 title: Contact
-hide_title: true
+hide_title: false
 sections: []
 seo:
   title: Contact
