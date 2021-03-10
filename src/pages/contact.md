@@ -10,12 +10,7 @@ sections:
       [example@example.com](mailto:example@example.com).
     form_id: contactForm
     form_action: /thank-you
-    form_fields:
-      - input_type: checkbox
-        name: consent
-        label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
+    form_fields: []
     submit_label: Send Message
 seo:
   title: Contact
